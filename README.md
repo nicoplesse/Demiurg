@@ -1,6 +1,8 @@
 # Projektübersicht
 
-Dieses Projekt dient als strukturierter Arbeitsraum fuer eine Novelle ueber einen biologisch realistischen Superman.
+Dieses Projekt dient als strukturierter Arbeitsraum fuer eine eigenstaendige Novelle mit biologisch und physikalisch begruendetem Power-System.
+
+Externe Inspirationsbegriffe sind keine In-World-Namen und keine Kanonbeschreibung.
 
 Die Dateien enthalten Vorlagen, Arbeitsbereiche und Review-Raster. Story-Inhalte, Figuren, Faehigkeiten, Regeln und Lore werden erst eingetragen, wenn sie bewusst entschieden und in der Story-Bibel dokumentiert wurden.
 
